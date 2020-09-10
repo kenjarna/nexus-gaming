@@ -1,0 +1,15 @@
+.sidePanel{
+    background-color: #f3f3f3;
+    width: 15%;
+    padding: 0.5rem 0;
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+    position: absolute;
+    left: 0px;
+    height: 80%;
+}
+
+p {
+    color: black;
+}

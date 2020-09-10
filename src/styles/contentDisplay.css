@@ -1,0 +1,9 @@
+.contentBox{
+    background-color: #f3f3f3;
+    width: 60vmax;
+    padding: 0.5rem 0;
+    display:flex;
+    flex-direction: column;
+    position: relative;
+    left: 16%;
+}
